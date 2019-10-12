@@ -27,3 +27,6 @@ steps:
   commands:
   - echo bonjour
   - echo monde
+  trigger:
+  branch:
+  - master
