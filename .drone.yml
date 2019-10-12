@@ -28,5 +28,5 @@ steps:
   - echo bonjour
   - echo monde
   trigger:
-  branch:
-  - master
+    branch:
+    - master
